@@ -1,2 +1,2 @@
 #This program prints hello
-echo "Hello"
+print("Hello")
